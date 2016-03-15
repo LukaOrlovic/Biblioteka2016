@@ -17,7 +17,7 @@ public class Biblioteka implements BibliotekaInterfejs {
 	@Override
 	public void obrisiKnjigu(Knjiga knjiga) {
 
-		knjige.remove(knjiga);
+		knjige.remove(knjiga); //neki komentar
 	}
 
 	@Override
